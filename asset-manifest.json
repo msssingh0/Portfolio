@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4ac2bbb1.chunk.css",
-    "main.js": "/Portfolio/static/js/main.8fc89457.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.8fc89457.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.db605a1d.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.db605a1d.js.map",
-    "static/js/2.c96f61e0.chunk.js": "/Portfolio/static/js/2.c96f61e0.chunk.js",
-    "static/js/2.c96f61e0.chunk.js.map": "/Portfolio/static/js/2.c96f61e0.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "precache-manifest.c8d1e64a172883373195af35fafe2026.js": "/Portfolio/precache-manifest.c8d1e64a172883373195af35fafe2026.js",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.4ac2bbb1.chunk.css.map": "/Portfolio/static/css/main.4ac2bbb1.chunk.css.map",
-    "static/js/2.c96f61e0.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c96f61e0.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/Portfolio/static/media/avatar.7c8e5f50.png",
-    "static/media/App.css": "/Portfolio/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/html-css-javascript-lg.jpg": "/Portfolio/static/media/html-css-javascript-lg.54fd4234.jpg",
-    "static/media/javascript-fullstack.jpg": "/Portfolio/static/media/javascript-fullstack.730958a2.jpg",
-    "static/media/mern-stack.jpg": "/Portfolio/static/media/mern-stack.90616a5d.jpg",
-    "static/media/react-redux.jpg": "/Portfolio/static/media/react-redux.a8b012a0.jpg"
+    "main.css": "/portfolio/static/css/main.182dedf4.chunk.css",
+    "main.js": "/portfolio/static/js/main.effd74d0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.effd74d0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
+    "static/js/2.c96f61e0.chunk.js": "/portfolio/static/js/2.c96f61e0.chunk.js",
+    "static/js/2.c96f61e0.chunk.js.map": "/portfolio/static/js/2.c96f61e0.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.5a8cabf371b21d71944f4884bad8b72f.js": "/portfolio/precache-manifest.5a8cabf371b21d71944f4884bad8b72f.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.182dedf4.chunk.css.map": "/portfolio/static/css/main.182dedf4.chunk.css.map",
+    "static/js/2.c96f61e0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c96f61e0.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.7c8e5f50.png",
+    "static/media/App.css": "/portfolio/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/html-css-javascript-lg.jpg": "/portfolio/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/javascript-fullstack.jpg": "/portfolio/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/mern-stack.jpg": "/portfolio/static/media/mern-stack.90616a5d.jpg",
+    "static/media/react-redux.jpg": "/portfolio/static/media/react-redux.a8b012a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db605a1d.js",
+    "static/js/runtime-main.fb1b3dac.js",
     "static/js/2.c96f61e0.chunk.js",
-    "static/css/main.4ac2bbb1.chunk.css",
-    "static/js/main.8fc89457.chunk.js"
+    "static/css/main.182dedf4.chunk.css",
+    "static/js/main.effd74d0.chunk.js"
   ]
 }
