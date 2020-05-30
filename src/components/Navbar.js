@@ -48,7 +48,7 @@ const menuItems = [
   {
     icon: <Home />,
     text: "Home",
-    path: "/",
+    path: "/portfolio",
   },
   {
     icon: <AssignmentInd />,
@@ -58,7 +58,7 @@ const menuItems = [
   {
     icon: <Apps />,
     text: "Portfolio",
-    path: "/portfolio",
+    path: "/projects",
   },
   {
     icon: <ContactMail />,
